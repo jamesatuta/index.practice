@@ -1,0 +1,183 @@
+.a{
+    background-color: grey;
+    color: green;
+    text-decoration:none;
+    display: flex;
+    font-size: 23pt;
+    text-shadow: 12px 20px rgb(230, 230, 235);
+    height: 100px;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    width: 100%;
+    background-image: url(/project.html/image/bussines.jpeg);
+    position: fixed;
+    background-position: top;
+    background-attachment: scroll;
+    vertical-align:top;
+}
+a:hover{background-color: rgb(231, 152, 49);
+    transition: 3s;
+}
+.a,a{
+    text-decoration: none;
+    word-spacing: 12px;
+    margin-right: 12px;
+    font-size: 34pt;
+    font-weight: bold;
+    border-radius: 4px;
+    color:rgb(165, 42, 110);padding: 5px 5px;
+
+}
+.lex{
+    background-image: url(/project.html/image/cart.jpeg);
+   height: 300px;
+
+}
+.lex:hover{
+    background-image: url(/project.html/image/lorrie3.jpeg);
+    transition: 8s;
+    background-color: antiquewhite;
+    cursor: pointer;
+}
+.r{
+    color:green;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 12px;
+    font-size: 23px;
+}
+.w{
+    color:green;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 12px;
+    font-size: 23px;
+}
+.main{
+    background-color: rgb(184, 151, 214);
+    padding:10px;
+    margin:1px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: bold;
+    color:maroon;
+
+}
+.main:hover{
+    background-color: rgb(233, 219, 233);
+    cursor: pointer;
+}
+.feed{
+    width: 100%;
+    height: 3oopx;
+    border-color: blue;
+    border-radius: 4px;
+}
+.feed:hover{
+    background-color: lightblue;
+    cursor: pointer;
+}
+.feed:focus{
+    outline: none;
+}
+.mac{
+    background-color: lightgreen;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    color: black;
+    text-decoration: none;
+    font-size: 23px;
+    margin-bottom: 10px;
+    font-size: 25pt;
+}
+.mac:hover{
+    transition: 0.5s;
+    background-color: rgb(191, 197, 202);
+}
+.i{
+    display: flex;
+    height: 200px;
+    flex-wrap: nowrap;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.o{
+    background-color: rgb(12, 46, 12);
+    color:rgb(255, 255, 255);
+}
+.u{
+    text-transform: capitalize;
+    text-align: center;
+    color:rgb(167, 71, 167)
+}
+.q{
+    text-align: center;
+    color:green;
+    cursor: pointer;
+
+}
+.more{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 200px;
+    border:2px red dotted
+}
+.uu{
+    background-color: blue;
+    color: white;
+}
+H1{
+    background-color: rgb(236, 5, 36);
+    COLOR:GREEN;
+    padding: 5px;
+    text-transform: capitalize;
+
+
+}
+.h1:hover{
+text-shadow: 12px 12px 12px;
+
+}
+html{
+    background-color: rgb(27, 68, 45);
+    display: block;
+    margin: 0%;
+    
+}
+.trib{
+    background-color: black;
+    color: white;
+    margin: px;
+    text-transform: capitalize;
+    width:100%
+    
+}
+.tri{
+    background-color: blue;
+    color:black;
+    width: 100%;
+    float: right;
+}
+.tab{
+    width: 100%;
+    padding: 2px;
+    border-radius:5px;
+}
+.img{
+    border: 1px yellow ;
+    padding: 5px;
+    margin-left:2px;
+    }
+    .img:hover{
+        background: Sh.450 only;
+        transition: 3s;
+        color:blue;
+        cursor:pointer;
+    }
+/*you can combine the codes of css and html for the website interface tio run correctly
+*/
